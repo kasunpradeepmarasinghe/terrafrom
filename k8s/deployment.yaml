@@ -18,7 +18,7 @@ spec:
       containers:
         - name: demo-app
           # Replace with your ECR/DockerHub image:tag after you build & push
-          image: YOUR_DOCKERHUB_USERNAME/eks-argocd-demo-app:v1
+          image: kasunpradeep/eks-argocd-demo-app:v1
           ports:
             - containerPort: 5000
           env:
