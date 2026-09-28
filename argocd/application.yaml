@@ -8,7 +8,7 @@ spec:
 
   source:
     # Replace with your GitHub repo URL after you push this project
-    repoURL: https://github.com/YOUR_USERNAME/eks-argocd-practice.git
+    repoURL: https://github.com/kasunpradeepmarasinghe/eks-argocd-practice.git
     targetRevision: main
     path: k8s
 
